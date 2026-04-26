@@ -2,8 +2,6 @@
 
 **TrackMyPrep** is a comprehensive, AI-powered interview preparation dashboard designed to help students and job seekers manage their preparation journey efficiently. Get personalized coaching tips, track your tasks, and visualize your progress—all in one soothing, light-themed workspace.
 
-![TrackMyPrep Dashboard](https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&q=80&w=1000)
-
 ## ✨ Key Features
 
 - **🤖 AI Prep Coach:** Get personalized study tips, resume improvements, and skill-gap analysis powered by **Google Gemini AI**.
